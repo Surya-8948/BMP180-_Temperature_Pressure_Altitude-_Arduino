@@ -5,7 +5,17 @@ A complete beginner-friendly Arduino project for interfacing the **BMP180 Barome
 This repository is ideal for students, makers, IoT enthusiasts, and embedded engineers who want to learn BMP180 sensor interfacing from scratch.
 
 ---
+<h2 align="center">BMP180 with Arduino Wiring Diagram</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surya-8948/BMP180-_Temperature_Pressure_Altitude-_Arduino/main/BM180with_Arduino.png"
+       alt="BMP180 with Arduino Circuit Diagram"
+       width="800">
+</p>
+
+<p align="center">
+  Complete circuit diagram for interfacing the <b>BMP180 Temperature, Pressure & Altitude Sensor</b> with an <b>Arduino UNO</b>.
+</p>
 # 📌 Features
 
 * 🌡 Read Temperature (°C)
